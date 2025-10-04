@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# API Keys (security)
+*api_key*
+*secret*
+*.key
+
+# Large data files
+*.csv
+*.xlsx
+*.json.bak
+
+# Backup files
+backup*/
+*backup/
+*.backup
+
+# Archive folders (keep structure but ignore content)
+archive/*/
+
+# Node modules (if any)
+node_modules/
+
+# Coverage reports
+htmlcov/
+.coverage
+.pytest_cache/
